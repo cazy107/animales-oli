@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head><meta charset="UTF-8">
+<meta charset="UTF-8">
+  <title>meta name="2IM12 MATUTINO Y LABORATORIO 6
+Gallegos Uribe Denis Alondra
+Galindo Melo Flor Berenice
+Najera Díaz Frida
+Monroy Onofre Jimena 
+Cuevaz Perez Fernanda Cazari
+Martinez Cervantes Karen Sarai</title>
+  <meta charset="UTF-8">
+  <title>Animales en Peligro de Extinción y Extintos</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: 'Harlow Solid Italic', sans-serif;
+      background-color: #7668af;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    header, footer {
+      text-align: center;
+      background-color: #ffe4c4;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    h1, h2 {
+      color: #cc3300;
+    }
+    section {
+      margin: 30px 0;
+      padding: 15px;
+      background-color: #fefefe;
+      border-radius: 10px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    .animal {
+      margin-bottom: 25px;
+    }
+    img {
+      max-width: 300px;
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 10px 0;
+    }
+    iframe {
+      width: 100%;
+      max-width: 500px;
+      height: 280px;
+      border: none;
+      margin: 10px 0;
+    }
+    a {
+      color: #0066cc;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Animales en Peligro de Extinción y Extintos</h1>
+    <p>Conozcamos especies que necesitan nuestra ayuda y aquellas que ya desaparecieron</p>
+  </header>
+
+  <section>
+    <h2>🐾 En Peligro de Extinción</h2>
+
+    <div class="animal">
+      <h3>Tigre de Bengala</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg" alt="Tigre de Bengala">
+      <p>El tigre de Bengala es una especie amenazada debido a la caza furtiva y la pérdida de hábitat.</p>
+      <iframe src="https://youtu.be/3W2N9_lR5Qg?si=ax8rmU7ETe7iEiA0" title="Video del tigre"></iframe>
+      <p><a href="https://es.wikipedia.org/wiki/Panthera_tigris_tigris" target="_blank">Leer más sobre el tigre de Bengala</a></p>
+    </div>
+
+    <div class="animal">
+      <h3>Rinoceronte de Java</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Javan_Rhinoceros.jpg" alt="Rinoceronte de Java">
+      <p>Uno de los mamíferos más raros del mundo, con menos de 80 individuos en estado salvaje.</p>
+      <p><a href="https://www.worldwildlife.org/species/javan-rhino" target="_blank">Conoce más en WWF</a></p>
+    </div>
+
+  </section>
+
+  <section>
+    <h2>🦴 Animales Extintos</h2>
+
+    <div class="animal">
+      <h3>Dodo</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Dodo_1.JPG" alt="Dodo">
+      <p>El dodo era un ave que vivía en la isla Mauricio. Se extinguió en el siglo XVII por la acción humana.</p>
+      <iframe src="https://www.youtube.com/embed/FzXqzq4F9N4" title="Video sobre el dodo"></iframe>
+      <p><a href="https://es.wikipedia.org/wiki/Raphus_cucullatus" target="_blank">Leer más sobre el dodo</a></p>
+    </div>
+
+    <div class="animal">
+      <h3>Mamut Lanudo</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Woolly_mammoth_model.jpg" alt="Mamut Lanudo">
+      <p>El mamut lanudo vivió en las regiones frías de Eurasia y América del Norte. Se extinguió hace unos 4,000 años.</p>
+      <p><a href="https://www.nationalgeographic.com.es/naturaleza/grandes-reportajes/mamut-lanudo_15515" target="_blank">Artículo sobre el mamut</a></p>
+    </div>
+
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Proyecto Escolar - Fauna Amenazada y Extinta</p>
+<p class="autoras">Gallegos Uribe Denis Alondra-Galindo Melo Flor Berenice-Najera Díaz Frida-Monroy Onofre Jimena -Cuevaz Perez Fernanda Cazari-Martinez Cervantes Karen Sarai</p>
+  </footer>
+</body>
+</html>
